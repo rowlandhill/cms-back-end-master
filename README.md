@@ -6,7 +6,7 @@ When logged in:
     - Users are able to manage the content once it's created: Display it, Edit it, Delete it.
 
 -  Deployed Back End - https://protected-mesa-82595.herokuapp.com/
--  Front End Repository - https://github.com/Team-RamRod-WDI/front-end
+-  Front End Repository - https://github.com/rowlandhill/cms-front-end-master
 
 ## API Routing
 
